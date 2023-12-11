@@ -1,7 +1,7 @@
-TEST UNITY 
+## SOLIDARITY CHECK
 
-B1: Giải nén file rar ( chuột trái -> Extract Here -> Sẽ xuất hiện thư mục game)  
+1 Extract the rar file (left mouse button -> Extract Here -> Game folder will appear)
 
-B2: Tìm file exe (Danni)
+2 Find the exe file (Danni)
 
-B3: click vào exe để chơi hoặc tạo shortcut để icon game ra màn hình desktop sau đó click để chơi 
+3 Click on the exe to play or create a shortcut to bring the game icon to the screen then click to play
